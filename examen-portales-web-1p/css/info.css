@@ -1,0 +1,22 @@
+#info {
+    background: rgba(78,173,248,1);
+    color: #fff;
+    text-align: center;
+}
+
+#info .contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.info-codeando{
+    margin: 20px;
+}
+
+.info-codeando img {
+    width: 5.25em;
+    height: 5.25em;
+    border-radius: 50%;
+    border: 7px solid #fff;
+}
